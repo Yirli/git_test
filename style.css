@@ -1,0 +1,45 @@
+.search {
+    width: 90%;
+    height: 50px;
+  }
+
+  .container {
+    width: 50%;
+    height: 50%;
+    margin: 7rem;
+    padding: 1rem;
+    text-align: center;
+   
+  }
+
+  p{
+    color: blue;
+    font-size: small;
+
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1rem;
+    
+  }
+
+  li {
+    display: inline;
+
+  }
+
+  a {
+    padding: 8px;
+    background-color: #dddddd;
+    font-size: small;
+    color: black;
+    float: right;
+  }
+
+  .circularPic{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+  }
